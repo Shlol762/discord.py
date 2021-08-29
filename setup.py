@@ -55,16 +55,17 @@ packages = [
 ]
 
 setup(name='discord.py',
-      author='Rapptz',
-      url='https://github.com/Rapptz/discord.py',
+      author='Shlok',
+      author_email='wizard1net@gmail.com',
+      url='https://github.com/Shlol762/discord.py',
       project_urls={
         "Documentation": "https://discordpy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/Rapptz/discord.py/issues",
+        "Issue tracker": "https://github.com/Shlol762/discord.py/issues",
       },
       version=version,
       packages=packages,
       license='MIT',
-      description='A Python wrapper for the Discord API',
+      description='A continuation of the original python wrapper for the Discord API',
       long_description=readme,
       long_description_content_type="text/x-rst",
       include_package_data=True,
