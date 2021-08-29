@@ -13,20 +13,15 @@ discord.py
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
+About this project
+--------------------------
+
+This projects forks the origin repository(`discord.py <https://github.com/Rapptz/discord.py>`_) that was solely built and maintained by `Rapptz <https://github.com/Rapptz>`_. Please note that the official discord.py library sadly stopped development on 28th August 2021, so the details you see above and below are about the last stable release from said library. With that being said, this project is just an effort to learn how to make a library. Download at your own risk.
+
 The Future of discord.py
 --------------------------
 
 Please read the `gist <https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1>`_ for the future of this project. It's been a good one.
-
-Key Features
--------------
-
-- Modern Pythonic API using ``async`` and ``await``.
-- Proper rate limit handling.
-- Optimised in both speed and memory.
-
-Installing
-----------
 
 **Python 3.8 or higher is required**
 
