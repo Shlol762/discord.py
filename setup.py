@@ -54,7 +54,7 @@ packages = [
     'discord.ext.tasks',
 ]
 
-setup(name='discord.py',
+setup(name='discord-cont.py',
       author='Shlok',
       author_email='wizard1net@gmail.com',
       url='https://github.com/Shlol762/discord.py',
